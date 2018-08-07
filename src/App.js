@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { Layout, Header, Drawer, Content } from 'react-mdl';
 import { CommonStyle } from 'styles';
-import Main from 'pages/Main';
-import Menu from 'components/Menu';
+import { Main, Menu } from 'components';
 
 class App extends Component {
   render() {
