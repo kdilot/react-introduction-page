@@ -5,7 +5,7 @@ const emp = [
   {
     'start': '2013.10',
     'end': '2014.12',
-    'title': 'Wein Technology, Inc (Korea)',
+    'title': 'asdfsad',
     'contents': 'sdfasdfasdfasdf',
     'skills' : [
       'PHP',
@@ -17,7 +17,7 @@ const emp = [
   {
     'start': '2014.4',
     'end': '2015.11',
-    'title': 'Dico System, Inc (Korea)',
+    'title': 'fsdfse',
     'contents': 'a',
     'skills' : [
       'PHP',
